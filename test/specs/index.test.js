@@ -4,7 +4,7 @@ const assert = chai.assert;
 const expect = chai.expect;
 chai.should();
 
-describe("Chai interfaces", () => {
+describe("Examples of chai interfaces", () => {
 
     it("Assert", async () => {
         await browser.url("https://www.epam.com/");
